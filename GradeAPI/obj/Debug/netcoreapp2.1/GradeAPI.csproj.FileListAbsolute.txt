@@ -1,0 +1,14 @@
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\bin\Debug\netcoreapp2.1\GradeAPI.deps.json
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\bin\Debug\netcoreapp2.1\GradeAPI.runtimeconfig.json
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\bin\Debug\netcoreapp2.1\GradeAPI.runtimeconfig.dev.json
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\bin\Debug\netcoreapp2.1\GradeAPI.dll
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.csprojAssemblyReference.cache
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.csproj.CoreCompileInputs.cache
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.RazorAssemblyInfo.cache
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.RazorAssemblyInfo.cs
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.AssemblyInfoInputs.cache
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.AssemblyInfo.cs
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.RazorTargetAssemblyInfo.cache
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\bin\Debug\netcoreapp2.1\GradeAPI.pdb
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.dll
+c:\users\matheus.cardoso\source\repos\GradeAPI\GradeAPI\obj\Debug\netcoreapp2.1\GradeAPI.pdb
